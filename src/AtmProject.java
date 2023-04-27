@@ -15,5 +15,7 @@ public class AtmProject {
         System.out.println("bir kisim kodlar yazdim");
         //version esra 2
 
+        //remote da degisiklik yaptim
+
     }
 }
